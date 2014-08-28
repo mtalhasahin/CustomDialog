@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CustomDialog</string>
+    <string name="title_activity_custom_dialog">Custom Dialog</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="isimler">
+        <item >Talha Şahin</item>
+        <item >Ömer Yazır</item>
+        <item >Harun Keleşoğlu</item>
+    </string-array>
+
+</resources>
